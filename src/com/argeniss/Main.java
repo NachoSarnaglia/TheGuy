@@ -50,7 +50,7 @@ public class Main {
                 System.out.println("Following count: " + user.getFriendsCount());
                 System.out.println("Followers count: " + user.getFollowersCount());
                 
-                /*
+                
                 int i=0;
                 for(; i<a.length; i++)
                 {
@@ -60,7 +60,6 @@ public class Main {
                 	System.out.println(a[i] + " - " + friendUser.getScreenName());
                 }
                 System.out.println("Users fetched: " + i);
-                */                
                 
             } else {
                 // the user is protected
